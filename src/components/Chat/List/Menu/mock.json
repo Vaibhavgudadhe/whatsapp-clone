@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "action": "Profile"
+  },
+  {
+    "id": 2,
+    "action": "New group"
+  },
+  {
+    "id": 3,
+    "action": "Linked devices"
+  },
+  {
+    "id": 4,
+    "action": "Settings"
+  }
+]
